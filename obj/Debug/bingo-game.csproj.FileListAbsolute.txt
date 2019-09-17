@@ -1,0 +1,10 @@
+C:/Users/sson/Desktop/Shawn/Programs/gitHub/Bingo-Game/bingo-game/bin/Debug/bingo-game.exe.config
+/Users/macbook/Documents/GitHub/DotNet/BackendTest/Bingo-Game/bingo-game/bin/Debug/bingo-game.exe.config
+/Users/macbook/Documents/GitHub/DotNet/BackendTest/Bingo-Game/bingo-game/bin/Debug/bingo-game.exe
+/Users/macbook/Documents/GitHub/DotNet/BackendTest/Bingo-Game/bingo-game/bin/Debug/bingo-game.pdb
+/Users/macbook/Documents/GitHub/DotNet/BackendTest/Bingo-Game/bingo-game/obj/Debug/bingo-game.csprojAssemblyReference.cache
+/Users/macbook/Documents/GitHub/DotNet/BackendTest/Bingo-Game/bingo-game/obj/Debug/bingo_game.Properties.Resources.resources
+/Users/macbook/Documents/GitHub/DotNet/BackendTest/Bingo-Game/bingo-game/obj/Debug/bingo-game.csproj.GenerateResource.cache
+/Users/macbook/Documents/GitHub/DotNet/BackendTest/Bingo-Game/bingo-game/obj/Debug/bingo-game.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/GitHub/DotNet/BackendTest/Bingo-Game/bingo-game/obj/Debug/bingo-game.exe
+/Users/macbook/Documents/GitHub/DotNet/BackendTest/Bingo-Game/bingo-game/obj/Debug/bingo-game.pdb
